@@ -228,12 +228,15 @@
             "filterable": 1
         },
        {
-            "key": "农民影视",
-            "name": "👨‍‍农民┃旭叔",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./XBPQ/农民影视.json"
-        },
+      "key": "农民影视",
+      "name": "👩‍🌾农民┃旭叔",
+      "type": 3,
+      "api": "csp_Wwys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wwgz.cn"
+    },
         {
             "key": "海纳影视",
             "name": "🏝海纳┃旭叔",
