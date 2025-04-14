@@ -228,13 +228,6 @@
             "filterable": 1
         },
        {
-      "key": "永乐影视",
-      "name": "📺永乐┃旭叔",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/永乐影视.json"
-    },
-        {
             "key": "海纳影视",
             "name": "🏝海纳┃旭叔",
             "type": 3,
@@ -249,6 +242,26 @@
             "playerType": 1,
             "ext": "http://api2.rinhome.com"
         },
+        {
+      "key": "电影天堂",
+      "name": "🧲天堂┃旭叔",
+      "type": 3,
+      "api": "csp_DyGod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "狐狸君",
+      "name": "🧲狐狸┃旭叔",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/狐狸君.json"
+    },
         {
             "key": "push_agent",
             "name": "🛴手机┃推送",
